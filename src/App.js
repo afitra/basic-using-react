@@ -7,6 +7,10 @@ let nama = "Teslah";
 // let nama1 = "Teslah-1";
 let foto = "logo512";
 // let foto1 = "logo192";
+// let foto1 = "logo192";
+// let foto1 = "logo192";
+// let foto1 = "logo192";
+
 MidlewareProps(Review);
 function App() {
   const list = [
